@@ -1,6 +1,6 @@
 # Planning_project
 
-1. 졸업 작품 ( 반려견을 위한 IOT 서비스 )
+1. 졸업 작품 ( 반려견을 위한 IOT 서비스 )  -> 상세 페이지 이동 https://github.com/Seo-donghoon/Planning_project/issues/2
 ![image](https://user-images.githubusercontent.com/67277380/165442487-711be12d-b7ad-4f03-8769-e132328051e7.png)
 
 
