@@ -1,4 +1,5 @@
-# Planning_project (기획 프로젝트  // 반려견을 위한 IOT서비스, 원격 의료 진찰 앱 )
+# Planning_project
+(기획 프로젝트  // 반려견을 위한 IOT서비스, 원격 의료 진찰 앱 )
 
 
 
